@@ -1,0 +1,3 @@
+# The original media stays local; the optimized web copies are in assets/videos/.
+/*.mp4
+/*.mov
